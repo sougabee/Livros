@@ -1,0 +1,7 @@
+.estante{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: beige;
+    
+}
